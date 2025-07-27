@@ -1,7 +1,9 @@
 ---
 templateKey: projects-page
 title: Aktifitas dan Kegiatan
-heading: "Kegiatan Sekolah "
-subheading: SMK Daarussa'adah aktif dalam kegiatan sekolah untuk memberikan
-  pengalaman kepada siswa/i
+heading: "SCALE UP: RISE STONGGER, LIVE DEEPER"
+subheading: Inilah kesempatan buat kau LEVEL UP! bukan cuma itu, kamu juga akan
+  belajar langsung dari mentor bisnis STIFIn  Kehadiran tokoh tokoh inspiratif
+  meneukan cara scale up dengan kekuatan potensi unikmu, silaturahmi melepas
+  rindu dan berkumpul satukan frekuensi
 ---
