@@ -1,8 +1,8 @@
 ---
 templateKey: about-page
 title: Tentang Kami
-heading: Tentang SMK Daarussaadah Kota Tangerang
-subheading: Visi Misi, Prestasi, Kegiatan dan Jurusan
+heading: Layanan Tes STIFIn Kota Tangerang
+subheading: Informasi tes STIFIn , Waktu Tes STIFIn, Kegiatan Event STIFIn 
 team:
   - name: Prestasi Siswa
     image: /img/img_2393.jpg
@@ -15,15 +15,15 @@ team:
 
 i﻿si tentang SMK Daarussaadah, mulai dari berdirinya, kegiatannya motivasinya dll.
 
-## **Visi**
+## **Informasi Test STIFIn**
 
-Isi dengan visi dari SMK Daarussaadah
+Untuk layanan Test STIFIn bisa menghubungi 0852-1950-7377
 
-## **Misi**
+## **Waktu Test STIFIn**
 
-1. i﻿si dengan misi-misi
+1. Untuk Test stifin bisa dijadwalkan sesuai dengan perjanjian
 
-![Tasakuran SMK Daarussaadah](/img/img_2242.jpg "Kegiatan Tasakuran SMK Daarussaadah")
+!["kegiatan" (/img/img_2242.jpg "Kegiatan Tasakuran SMK Daarussaadah")
 
 ### Jurusun Teknik Komputer Jaringan (TKJ)
 
