@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Official Website Tes Stifin
-image: /img/baner-sstifin3.png
+image: /img/baner-sstifin4.png
 heading: Tes STIFIn Personality Genetic Intelligence
 subheading: Lebih dari 600.000+ orang di Indonesia dan beberapa negara di Dunia
   telah mempercayakan Tes STIFIn untuk mengetahui karakter dan potensi diri
