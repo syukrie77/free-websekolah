@@ -14,7 +14,7 @@ about:
     sistem operasi pada otak manusia (Sensing, Thinking, intuiting, feeling dan
     insting)
   image:
-    image: /img/penyerahan-piagam.jpg
+    image: /img/stifin1.jpg
     alt: Tes STIFIn Tangerang
   button:
     url: /about
